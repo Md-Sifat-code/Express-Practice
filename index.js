@@ -9,7 +9,7 @@ app.get('/',(req,res)=>{
 })
 
 app.get('/motherfucker',(req,res)=>{
-    res.send('I know you know that you are the biggest mc')
+    res.send('I know you know that you are the biggest adamca')
 })
 
 app.listen(port,()=>{
