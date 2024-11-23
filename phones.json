@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Galaxy S23 Ultra",
+    "price": 1199,
+    "picture": "https://example.com/galaxy-s23-ultra.jpg",
+    "brand": "Samsung",
+    "ram": "12GB",
+    "processor": "Snapdragon 8 Gen 2",
+    "gpu": "Adreno 740"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 15 Pro Max",
+    "price": 1299,
+    "picture": "https://example.com/iphone-15-pro-max.jpg",
+    "brand": "Apple",
+    "ram": "8GB",
+    "processor": "A17 Bionic",
+    "gpu": "Apple GPU (6-core)"
+  },
+  {
+    "id": 3,
+    "name": "Pixel 8 Pro",
+    "price": 999,
+    "picture": "https://example.com/pixel-8-pro.jpg",
+    "brand": "Google",
+    "ram": "12GB",
+    "processor": "Tensor G3",
+    "gpu": "Mali-G715"
+  },
+  {
+    "id": 4,
+    "name": "Xiaomi 13 Pro",
+    "price": 899,
+    "picture": "https://example.com/xiaomi-13-pro.jpg",
+    "brand": "Xiaomi",
+    "ram": "12GB",
+    "processor": "Snapdragon 8 Gen 2",
+    "gpu": "Adreno 740"
+  },
+  {
+    "id": 5,
+    "name": "OnePlus 11",
+    "price": 699,
+    "picture": "https://example.com/oneplus-11.jpg",
+    "brand": "OnePlus",
+    "ram": "16GB",
+    "processor": "Snapdragon 8 Gen 2",
+    "gpu": "Adreno 740"
+  },
+  {
+    "id": 6,
+    "name": "Sony Xperia 1 V",
+    "price": 1299,
+    "picture": "https://example.com/sony-xperia-1-v.jpg",
+    "brand": "Sony",
+    "ram": "12GB",
+    "processor": "Snapdragon 8 Gen 2",
+    "gpu": "Adreno 740"
+  },
+  {
+    "id": 7,
+    "name": "Huawei P60 Pro",
+    "price": 799,
+    "picture": "https://example.com/huawei-p60-pro.jpg",
+    "brand": "Huawei",
+    "ram": "8GB",
+    "processor": "Kirin 9000S",
+    "gpu": "Mali-G78"
+  },
+  {
+    "id": 8,
+    "name": "Oppo Find X6 Pro",
+    "price": 999,
+    "picture": "https://example.com/oppo-find-x6-pro.jpg",
+    "brand": "Oppo",
+    "ram": "16GB",
+    "processor": "Snapdragon 8 Gen 2",
+    "gpu": "Adreno 740"
+  },
+  {
+    "id": 9,
+    "name": "Vivo X90 Pro",
+    "price": 899,
+    "picture": "https://example.com/vivo-x90-pro.jpg",
+    "brand": "Vivo",
+    "ram": "12GB",
+    "processor": "Dimensity 9200",
+    "gpu": "Immortalis-G715"
+  },
+  {
+    "id": 10,
+    "name": "Realme GT 3",
+    "price": 699,
+    "picture": "https://example.com/realme-gt-3.jpg",
+    "brand": "Realme",
+    "ram": "16GB",
+    "processor": "Snapdragon 8+ Gen 1",
+    "gpu": "Adreno 730"
+  },
+  {
+    "id": 11,
+    "name": "Asus ROG Phone 7",
+    "price": 999,
+    "picture": "https://example.com/asus-rog-phone-7.jpg",
+    "brand": "Asus",
+    "ram": "16GB",
+    "processor": "Snapdragon 8 Gen 2",
+    "gpu": "Adreno 740"
+  },
+  {
+    "id": 12,
+    "name": "Motorola Edge 40 Pro",
+    "price": 799,
+    "picture": "https://example.com/motorola-edge-40-pro.jpg",
+    "brand": "Motorola",
+    "ram": "12GB",
+    "processor": "Snapdragon 8 Gen 2",
+    "gpu": "Adreno 740"
+  },
+  {
+    "id": 13,
+    "name": "Nokia Magic Max",
+    "price": 599,
+    "picture": "https://example.com/nokia-magic-max.jpg",
+    "brand": "Nokia",
+    "ram": "8GB",
+    "processor": "Snapdragon 7 Gen 2",
+    "gpu": "Adreno 725"
+  },
+  {
+    "id": 14,
+    "name": "Infinix Zero Ultra",
+    "price": 499,
+    "picture": "https://example.com/infinix-zero-ultra.jpg",
+    "brand": "Infinix",
+    "ram": "12GB",
+    "processor": "Dimensity 920",
+    "gpu": "Mali-G68"
+  },
+  {
+    "id": 15,
+    "name": "Tecno Phantom V Fold",
+    "price": 1199,
+    "picture": "https://example.com/tecno-phantom-v-fold.jpg",
+    "brand": "Tecno",
+    "ram": "12GB",
+    "processor": "Dimensity 9000+",
+    "gpu": "Mali-G710"
+  }
+]
